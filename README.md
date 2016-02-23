@@ -12,8 +12,8 @@ Initially developed to resolve Swig template files for [AdminPlus Lite Bootstrap
 ### Search paths
 
 ```js
-var Loader = require('fs-resolver')
-var path = require('path')
+var Loader = require('fs-resolver');
+var path = require('path');
 
 var loader = new Loader([
     process.cwd(),
