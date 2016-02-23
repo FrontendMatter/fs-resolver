@@ -3,7 +3,7 @@ var Q = require('q');
 var path = require('path');
 var expect  = require('expect.js');
 
-describe('lib/fs', function() {
+describe('index', function() {
 
     var loader = new Loader([
         process.cwd(),
