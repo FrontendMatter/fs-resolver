@@ -1,0 +1,29 @@
+{
+  "name": "fs-resolver",
+  "version": "1.0.0",
+  "description": "Resolve and load files and directories from multiple filesystem search paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "test-travis": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha"
+  },
+  "keywords": [
+    "filesystem",
+    "loader",
+    "resolve",
+    "resolver"
+  ],
+  "author": "Laza Bogdan <laza.bogdan@macro-net.ro>",
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "^4.1.3",
+    "mout": "^0.11.1"
+  },
+  "devDependencies": {
+    "coveralls": "^2.11.6",
+    "expect.js": "^0.3.1",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
+    "q": "^1.4.1"
+  }
+}
