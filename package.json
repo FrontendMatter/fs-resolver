@@ -25,5 +25,16 @@
     "istanbul": "^0.4.2",
     "mocha": "^2.4.5",
     "q": "^1.4.1"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themekit/fs-resolver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/themekit/fs-resolver/issues"
+  },
+  "homepage": "https://github.com/themekit/fs-resolver#readme"
 }
