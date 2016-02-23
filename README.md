@@ -1,7 +1,7 @@
 # fs-resolver
 [![npm version](https://badge.fury.io/js/fs-resolver.svg)](https://badge.fury.io/js/fs-resolver)
 [![Build Status](https://travis-ci.org/themekit/fs-resolver.svg?branch=master)](https://travis-ci.org/themekit/fs-resolver)
-[![Coverage Status](https://coveralls.io/repos/themekit/fs-resolver/badge.svg?branch=master&service=github)](https://coveralls.io/github/themekit/fs-resolver?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/themekit/fs-resolver/badge.svg?branch=master)](https://coveralls.io/github/themekit/fs-resolver?branch=master)
 
 Resolve and load files and directories from multiple filesystem search paths.
 
